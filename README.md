@@ -11,10 +11,8 @@ Rules 🧩
 
 Run It 🏃🏻
 
-git clone https://github.com/AMIYA-debug/Tower-Of-Hanoi.git
-cd Tower-Of-Hanoi
-g++ tower_of_hanoi.cpp -o hanoi
-./hanoi
+Just clone the repo, compile the code ,and run the program ,then follow the on-screen prompts to solve the puzzle!
+
 
 Sample Output📠
 
